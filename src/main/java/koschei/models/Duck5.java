@@ -11,7 +11,6 @@ public class Duck5 {
         this.egg6 = egg;
     }
     @Override
-
     public String toString() {
         return ", в утке яйцо " + egg6.toString();
     }
